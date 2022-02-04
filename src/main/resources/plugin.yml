@@ -1,0 +1,5 @@
+name: MythicKeysExample
+version: '${project.version}'
+main: eu.asangarin.mke.MKExample
+api-version: 1.17
+depend: [ mythickeysplugin ]
